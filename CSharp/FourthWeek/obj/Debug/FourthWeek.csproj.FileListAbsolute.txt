@@ -1,0 +1,6 @@
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\obj\Debug\FourthWeek.csprojAssemblyReference.cache
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\bin\Debug\FourthWeek.exe.config
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\bin\Debug\FourthWeek.exe
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\bin\Debug\FourthWeek.pdb
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\obj\Debug\FourthWeek.exe
+C:\Users\Chuck\source\CodeDone-Second\FourthWeek\FourthWeek\obj\Debug\FourthWeek.pdb
